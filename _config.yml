@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiyue Wang"
+title                    : "Westgrass"
 description              : "life goes on, let's live on."
 repository               : "wchemoray/westmoon.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiyue Wang"
+  name             : "Westgrass"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "National University of Defense Technology"
-  location         : "Changsha, China"
+  bio              : "Studyathome University"
+  location         : "xianglibie, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
