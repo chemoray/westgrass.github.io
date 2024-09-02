@@ -18,7 +18,7 @@ redirect_from:
 
 Hello, I am westgrass (草西, in Chinese).
 I am currently pursuing my master's degree at the  [Studyathome University](https://www.douyin.com/).
-I received bachelor degrees in Computer Science and Technology from [Hefei University of Technolog](https://space.bilibili.com/39627524) in 2023.
+I received bachelor degrees in Computer Science and Technology from [Hefei University of Technology](https://space.bilibili.com/39627524) in 2023.
 
 My research focuses on AI4DB and having published 0️⃣ papers😎. 
 
